@@ -1,0 +1,13 @@
+ue August 13, 2024 11:59 PM
+SQA Session 1
+Instructions
+You have preformed Exploratory Testing for the QUOTE page. File all the bugs you can find using the provided Spreadsheet.
+
+Use the following Link to test: http://quote-qa.portnov.com/
+Make sure the version is : v1.0.101
+
+Requirements
+File at least 5 bugs! (Each bug is for an individual problem)
+Refer to the components and example Template
+Do your best! The goal is just to write something and practice
+My work
