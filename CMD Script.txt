@@ -1,0 +1,41 @@
+cd ~
+ 
+echo > testFile.txt
+ 
+echo "Some random text" >testFile2.txt
+ 
+rm -r /
+ 
+echo > script.sh
+ 
+mkdir MyFolder
+
+cd MyFolder
+
+echo "This is sample text" > myFile.txt
+
+open myFile.txt
+
+exit
+ 
+chmod +x script.sh
+ 
+voice cutting out?
+ 
+no
+ 
+what is the diff between sh and bat extension?
+ 
+WINDOWS:
+Create a new script
+echo > script.bat
+Open the file in the notepad and put inside:
+mkdir MyFolder
+cd MyFolder
+echo This is some sample text. > myfile.txt
+notepad myfile.txt
+ 
+3. to start the script type in the CMD script.bat
+
+emulator -list-avds
+ 

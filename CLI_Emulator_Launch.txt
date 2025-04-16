@@ -1,0 +1,34 @@
+emulator @Pixel_5_API_34_Habs1
+emulator -list-avds
+emulator -avd Medium_Phone_API_29_Habs
+
+
+adb version
+
+adb logcat > fileslog.txt
+
+adb logcat *:W warning and high priority logs
+
+adb logcat *:E error and h
+	
+adb logcat flutter:D *:S  -t "10-23 15:00:00.000"  > Port
+\adb uninsra'
+
+adbuninstall
+
+adb shell screencap /sdcard/file_name.png
+
+adb pull /sdcard/file_name.png <destination_pth>
+
+adb shell pidof -s com.portnov.eshop
+
+
+
+
+
+
+adb logcat flutter:D *:S  part of portnov app flutter S keep all other logs silent
+
+users\BCD10\Android
+ 
+ 
