@@ -1,0 +1,19 @@
+BDD
+Due March 10, 2025 7:59 PM
+Instructions
+Review predefined.feature attached. It has the progress we did in class.
+
+Homework is to write any 3 scenarios from the list below (more the better, but at least 3):
+Use same template & approach like we did in class.
+
+@predefined2 scenarios for https://www.bing.com (we've done already)
+@predefined3 scenarios for https://www.yahoo.com
+@predefined4 scenario for https://gibiru.com
+@predefined5 scenario for https://duckduckgo.com
+@predefined6 scenario for https://swisscows.com
+@predefined7 scenario for https://www.searchencrypt.com
+@predefined8 scenario for https://www.startpage.com
+@predefined9 scenario for https://boardreader.com
+@predefined10 scenario for https://www.ecosia.org
+
+Reference materials

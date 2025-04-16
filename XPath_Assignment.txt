@@ -1,0 +1,30 @@
+1. X Path Values
+
+2. //label[contains(text(),'Country of Origin')]
+
+3.//input[@id='confirmPassword']
+
+4.  //option[contains(text(),'Toyota')]
+
+5. //body/div[@id='quotePageForm']/form[@id='quoteForm']/fieldset[1]/section[1]/div[1]/div[2]/div[1]/div[4]/select[1]
+
+6. //body/div[@id='quotePageForm']/form[@id='quoteForm']/fieldset[1]/section[1]/div[1]/div[2]/div[1]/div[5]/label[3]/input[1]
+
+7. //body/div[@id='quotePageForm']/form[@id='quoteForm']/fieldset[1]/section[1]/div[1]/div[2]/div[1]/div[2]/input[1]
+
+8.  //b[@id='currentDate']
+
+9. //input[@id='firstName'] //input[@id='lastName']  //input[@id='middleName'] //span[contains(text(),'Save')] //span[contains(text(),'Cancel')]
+
+10. //span[contains(text(),'I have read and accept Privacy Policy.')]
+
+11. //button[contains(text(),'Related documents (click)')]
+
+12.  //label[@id='password-error']
+
+
+
+
+
+
+
