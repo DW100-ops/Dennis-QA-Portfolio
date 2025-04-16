@@ -1,0 +1,61 @@
+{
+	"info": {
+		"_postman_id": "12edb5c2-bf0a-4dee-bd0a-8a4993753ea0",
+		"name": "taskboard",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38490824"
+	},
+	"item": [
+		{
+			"name": "create task",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"taskName\": \"DW task\",\r\n  \"description\": \"Practice\",\r\n  \"dueDate\": \"2024-12-11T03:29:41.162Z\",\r\n  \"priority\": 0,\r\n  \"status\": \"Secondary\",\r\n  \"author\": \"DW\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://taskboard.portnov.com/api/Task",
+					"protocol": "https",
+					"host": [
+						"taskboard",
+						"portnov",
+						"com"
+					],
+					"path": [
+						"api",
+						"Task"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "task list",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://taskboard.portnov.com/api/Task",
+					"protocol": "https",
+					"host": [
+						"taskboard",
+						"portnov",
+						"com"
+					],
+					"path": [
+						"api",
+						"Task"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
