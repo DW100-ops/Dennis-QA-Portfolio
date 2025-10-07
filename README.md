@@ -1,5 +1,9 @@
 👋 Welcome! I'm Dennis Walsh, a QA Engineer with 15+ years of experience in system validation. This repo demonstrates hands-on QA practice with tools like Postman, SQL, ADB, and Selenium.
 
+> 📌 **Update: Added AI Prompt Samples**  
+This repo now includes structured prompt-response files under `PromptSamples/`, showcasing telecom troubleshooting, QA logic, and multi-turn AI reasoning.  
+Use this branch (`ai-prompt-samples`) to explore hybrid skills in QA and prompt engineering.
+
 ## 🧪 Highlights:
 - API Testing with Postman  
 - Backend validation with SQL  
