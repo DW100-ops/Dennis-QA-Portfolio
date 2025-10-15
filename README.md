@@ -22,4 +22,5 @@ This template is designed to reduce diagnostic time during embedded QA and firmw
 ## Files Included
 - `trace_recovery_template.txt`: CLI prep sheet and recovery steps
 - `sample_trace.log`: Example trace output (anonymized)
+
 - `recovery_notes.md`: Notes on drift correction and rollback logic
