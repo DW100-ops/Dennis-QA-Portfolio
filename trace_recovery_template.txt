@@ -1,0 +1,16 @@
+# Firmware Trace Recovery Template
+
+## Step 1: Capture Trace
+$ trace_dump.sh --output trace_raw.log
+
+## Step 2: Normalize Timestamps
+$ sync_trace.py trace_raw.log > trace_synced.log
+
+## Step 3: Filter for Errors and Warnings
+$ grep -E 'ERROR|WARN' trace_synced.log > trace_filtered.log
+
+## Step 4: Identify Drift Patterns
+$ awk '{print $1, $2}' trace_filtered.log | uniq -c
+
+## Step 5: Apply Rollback Logic
+Refer to recovery_notes.md for rollback triggers and safe restore points.
