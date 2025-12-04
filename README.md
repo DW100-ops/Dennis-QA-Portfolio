@@ -1,4 +1,4 @@
-👋 Welcome! I'm Dennis Walsh, a QA Engineer with 15+ years of experience in system validation. This repo demonstrates hands-on QA practice with tools like Postman, SQL, ADB, and Selenium.
+👋 Welcome! I’m a QA & Service professional with experience testing web, mobile, and networked applications across cloud and on‑premise environments. This repo demonstrates hands-on QA practice with tools like Postman, SQL, ADB, and Selenium.
 
 ## 🧪 Highlights:
 - API Testing with Postman  
@@ -14,7 +14,6 @@ This section includes examples of structured prompt-response pairs designed for 
 - Domain-specific Q&A creation (telecom, CS, economics)  
 - Multi-step reasoning and structured responses  
 
-📁 See the [`PromptSamples`](./PromptSamples) folder for examples.
 
-📫 dwalsh10@aol.com | [LinkedIn](https://www.linkedin.com/in/dennislwalsh/)
+📫 dlw10053@gmail.com | [LinkedIn](https://www.linkedin.com/in/dennislwalsh/)
 
