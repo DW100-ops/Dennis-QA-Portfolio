@@ -19,5 +19,5 @@ This section includes examples of structured prompt-response pairs designed for 
 - Multi-step reasoning and structured responses  
 
 
-📫 dwalsh10@aol.com | [LinkedIn](https://www.linkedin.com/in/dennislwalsh/)
+📫 dlw10053@gmail.com | [LinkedIn](https://www.linkedin.com/in/dennislwalsh/)
 
