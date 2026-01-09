@@ -7,7 +7,7 @@ Welcome! I’m a Service & QA professional with hands-on experience testing web,
 - Database validation with SQL (queries, joins, data integrity)
 - Mobile testing with ADB (emulators, logs, wireless debugging)
 - Manual test cases & bug reporting
--
+
 📊 Data Analytics Highlights
 - Power BI dashboards (sales analysis, customer returns, telecom churn)
 - Dynamic insights with DAX and interactive visuals
