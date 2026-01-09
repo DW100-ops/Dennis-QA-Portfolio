@@ -12,6 +12,6 @@ Welcome! I’m a Service & QA professional with hands-on experience testing web,
 - Power BI dashboards (sales analysis, customer returns, telecom churn)
 - Dynamic insights with DAX and interactive visuals
 
-Open to QA Engineer and Power BI Data Analyst roles!
+Open to QA Engineer and Power BI Data Analyst roles
 
 📫 dlw10053@gmail.com | LinkedInlinkedin.com/in/dennislwalsh/)
