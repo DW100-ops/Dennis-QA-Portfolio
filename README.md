@@ -6,7 +6,7 @@ Welcome! I’m a Service & QA professional with hands-on experience testing web,
 API testing with Postman (collections, environments, assertions)
 Database validation with SQL (queries, joins, data integrity)
 Mobile testing with ADB (emulators, logs, wireless debugging)
-Manual test cases & bug reporting
+Manual test cases & bug reporting, AI Prompting
 
 📊 Data Analytics Highlights
 Power BI dashboards (sales analysis, customer returns, telecom churn)
