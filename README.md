@@ -14,11 +14,6 @@ Power BI dashboards (sales analysis, customer returns, telecom churn)
 Dynamic insights with DAX and interactive visuals
 
 
-💡 SQL Validation Queries
-Common QA commands
-Counts, Validate, integrity, consistency
-
-Open to QA Engineer and Power BI Data Analyst roles!
+Open to QA Engineer and Power BI Data Analyst roles
 
 📫 dlw10053@gmail.com | LinkedInlinkedin.com/in/dennislwalsh/)
-
