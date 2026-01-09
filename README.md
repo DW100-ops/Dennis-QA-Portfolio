@@ -20,4 +20,3 @@ Welcome! I’m a Service & QA professional with hands-on experience testing web,
 Open to QA Engineer and Power BI Data Analyst roles!
 
 📫 dlw10053@gmail.com | LinkedInlinkedin.com/in/dennislwalsh/)
-
