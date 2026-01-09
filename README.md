@@ -1,33 +1,35 @@
 👋 Dennis Walsh - Service QA & Data Analytics Portfolio
 
-Welcome! I’m a Service & QA professional with hands-on experience testing web, mobile, and networked applications in cloud and on-premise environments as well data analytics.
+Welcome! I'm a Service & QA professional with hands-on experience testing web, mobile, and networked applications in cloud and on-premise environments as well as data analytics.
 
-🧪 Power BI Dashboards
+**Power BI Dashboards**
+
 - Dynamic interactive dashboards built with Power BI, showcasing DAX measures and data modeling.
 
-## Telecom Customer Churn Analysis
+### Telecom Customer Churn Analysis
 
 **Objective**: Identify churn patterns and drivers in a telecom dataset to support retention strategies.
 
 **Key Insights**:
 - Churn rate by tenure, services (Online Security, Tech Support), contract type.
 - Revenue impact from churned customers.
-- Recommendations: Promote 1-2 year contracts and add-on services.
+- Recommendations: Promote longer contracts and bundled services to reduce churn.
 
-**Visuals**:
-- Overview KPIs (Total Customers, Churn Rate, Revenue Lost)
-- Churn by Demographics & Services
-- Monthly Trends
+**Dashboard Screenshots**
 
+#### Churn Rate Overview
+![Churn Rate Dashboard](Churn_Rate.PNG)
 
-## Sales & Customer Returns Analysis
+#### Churn Reasons & Drivers
+![Churn Reasons Analysis](Churn_Reason.PNG)
 
-**Objective**: Analyze sales performance and return rates.
+#### Sales Performance
+![Sales Overview](Sales.PNG)
 
-**Key Insights**:
-- Top products by returns
-- Sales trends
-- Customer segments
+#### Sales Returns Analysis
+![Sales Returns Dashboard](Sales_Return_Analysis.PNG)
+
+*Interactive features include slicers for region/contract type, drill-downs, and custom DAX measures.*
 
 Open to QA Engineer and Power BI Data Analyst roles
 
