@@ -13,7 +13,7 @@ This section includes examples of structured prompt-response pairs designed for 
 - Domain-specific Q&A creation (telecom, CS, economics)  
 - Multi-step reasoning and structured responses  
 
-Open to QA Engineer and Power BI Data Analyst roles!
+Open to QA Engineer and Power BI Data Analyst roles
 
 📫 dlw10053@gmail.com | LinkedIn: linkedin.com/in/dennislwalsh
 
