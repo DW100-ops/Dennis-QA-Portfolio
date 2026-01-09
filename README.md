@@ -19,10 +19,6 @@ Welcome! I’m a Service & QA professional with hands-on experience testing web,
 - Churn by Demographics & Services
 - Monthly Trends
 
-*(Screenshots below)*
-
-![Churn Overview](churn-overview.png)
-![Churn Drivers](churn-drivers.png)
 
 ## Sales & Customer Returns Analysis
 
