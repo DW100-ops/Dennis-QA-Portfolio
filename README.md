@@ -10,10 +10,14 @@ Welcome! I'm a Service & QA professional with hands-on experience testing web, m
 
 **Objective**: Identify churn patterns and drivers in a telecom dataset to support retention strategies.
 
-**Key Insights**:
-- Churn rate by tenure, services (Online Security, Tech Support), contract type.
-- Revenue impact from churned customers.
-- Recommendations: Promote longer contracts and bundled services to reduce churn.
+### Global Superstore Sales and Return Analysis
+
+**Objective**: Identify Sales by region, segment and returns by region and segment 
+
+### Canada Defense Spending Analysis & Tool Tip
+
+**Objective**: Identify Canada Defense Spending as a % of GDP, by program and projects 
+
 
 **Dashboard Screenshots**
 
