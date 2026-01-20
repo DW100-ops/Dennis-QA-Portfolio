@@ -28,6 +28,10 @@ Welcome! I'm a Service & QA professional with hands-on experience testing web, m
 
 #### Sales Returns Analysis
 ![Sales Returns Dashboard](Sales_Return_Analysis.PNG)
+ 
+### Canada Defense Spending
+![Defense Spending Dashboard](Canada_Defense_$ .PNG)
+
 
 *Interactive features include slicers for region/contract type, drill-downs, and custom DAX measures.*
 
